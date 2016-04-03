@@ -1,0 +1,460 @@
+"","respondent","education","Select.your.age.range","Gender","NLRA_Member","NH_Resident_Yes2","createtime","id","buttonname","visibleLayers","zoomLevel","shape","longtitude","latitude","soil_quality","waterquality","wildlife","recreation","scenic","tourism","business","rural"
+"1",78,NA,NA,NA,NA,NA,"2016-03-15T21:10:17.227Z",112,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,1,2,1,0,0,1,0,1
+"2",78,NA,NA,NA,NA,NA,"2016-03-15T21:11:08.919Z",113,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"3",78,NA,NA,NA,NA,NA,"2016-03-15T21:11:55.796Z",115,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"4",78,NA,NA,NA,NA,NA,"2016-03-15T21:12:38.700Z",117,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"5",78,NA,NA,NA,NA,NA,"2016-03-15T21:13:03.256Z",118,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",14,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"6",79,"Masters","65 - 84 years","Female","Yes","No","2016-03-15T21:14:24.772Z",120,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",17,"POINT",-71.735616,43.634281,1,2,1,1,1,1,0,1
+"7",79,"Masters","65 - 84 years","Female","Yes","No","2016-03-15T21:13:16.181Z",119,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.772051,43.63974,1,3,1,1,1,1,1,1
+"8",79,"Masters","65 - 84 years","Female","Yes","No","2016-03-15T21:12:05.949Z",116,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.735144,43.619549,1,3,0,1,1,1,1,2
+"9",80,NA,NA,NA,NA,NA,"2016-03-15T21:11:38.002Z",114,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"10",87,NA,NA,NA,NA,NA,"2016-03-15T21:38:46.965Z",142,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.740079,43.620264,3,3,3,0,0,1,3,3
+"11",98,"PhD or Higher","45 - 64  years","Male","No","Yes","2016-03-15T21:25:08.418Z",124,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",17,"POINT",-71.793491,43.689073,3,3,3,NA,NA,NA,NA,3
+"12",98,"PhD or Higher","45 - 64  years","Male","No","Yes","2016-03-15T21:25:40.554Z",125,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",17,"POINT",-71.792132,43.68809,3,3,3,NA,NA,NA,NA,3
+"13",98,"PhD or Higher","45 - 64  years","Male","No","Yes","2016-03-15T21:24:33.089Z",123,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.792879,43.688708,3,3,3,NA,NA,NA,NA,3
+"14",98,"PhD or Higher","45 - 64  years","Male","No","Yes","2016-03-15T21:23:23.824Z",121,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.77454,43.689887,3,3,3,NA,NA,NA,NA,3
+"15",100,NA,NA,NA,NA,NA,"2016-03-15T21:23:27.849Z",122,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"16",105,NA,NA,NA,NA,NA,"2016-03-15T21:27:55.409Z",130,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.848869,43.704367,NA,NA,NA,NA,NA,NA,NA,NA
+"17",106,NA,NA,NA,NA,NA,"2016-03-15T21:27:07.922Z",127,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"18",106,NA,NA,NA,NA,NA,"2016-03-15T21:27:46.188Z",129,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.77763,43.647628,NA,NA,NA,NA,NA,NA,NA,NA
+"19",108,NA,NA,NA,NA,NA,"2016-03-15T21:31:19.402Z",134,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"20",108,NA,NA,NA,NA,NA,"2016-03-15T21:34:16.241Z",138,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.772223,43.63974,NA,NA,NA,NA,NA,NA,NA,NA
+"21",110,NA,NA,NA,NA,NA,"2016-03-15T21:31:14.430Z",133,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.717377,43.660545,NA,NA,NA,NA,NA,NA,NA,NA
+"22",111,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-15T21:33:39.509Z",137,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.735663,43.618089,3,NA,NA,3,3,3,NA,NA
+"23",111,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-15T21:40:32.909Z",147,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.735663,43.618089,NA,NA,NA,NA,NA,NA,NA,NA
+"24",111,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-15T21:41:05.064Z",148,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.730323,43.625213,NA,2,2,NA,NA,NA,NA,NA
+"25",112,NA,NA,NA,NA,NA,"2016-03-15T21:33:25.361Z",136,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"26",114,"Masters","65 - 84 years","Male","No","Yes","2016-03-15T21:34:26.932Z",139,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"27",114,"Masters","65 - 84 years","Male","No","Yes","2016-03-15T21:32:41.431Z",135,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,1,2,2,1,1,3,1,2
+"28",120,"Masters","45 - 64  years","Female","Yes","Yes","2016-03-15T21:39:09.990Z",143,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.804581,43.672093,NA,NA,NA,NA,NA,NA,NA,NA
+"29",120,"Masters","45 - 64  years","Female","Yes","Yes","2016-03-15T21:39:31.357Z",144,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.728706,43.67408,NA,NA,NA,NA,NA,NA,NA,NA
+"30",120,"Masters","45 - 64  years","Female","Yes","Yes","2016-03-15T21:40:26.654Z",146,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.788445,43.623402,2,2,3,1,1,1,1,2
+"31",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:52:21.299Z",166,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.814194,43.698907,3,3,2,2,2,2,1,2
+"32",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:48:32.875Z",161,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.884575,43.615448,3,3,3,3,3,3,1,3
+"33",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:41:38.214Z",149,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.720295,43.66514,3,3,3,1,1,2,0,3
+"34",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:53:46.099Z",167,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.790504,43.593571,3,3,1,1,1,1,1,1
+"35",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:40:19.135Z",145,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.773338,43.643777,2,3,2,2,2,1,0,2
+"36",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:43:31.594Z",153,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.905861,43.629242,2,2,3,3,3,3,2,3
+"37",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:47:25.462Z",159,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.712227,43.643281,3,3,3,3,3,3,1,3
+"38",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:46:45.787Z",157,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.737976,43.689474,3,3,3,3,3,3,1,3
+"39",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:50:33.544Z",164,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",13,"POINT",-71.841831,43.645765,3,3,3,3,3,3,1,2
+"40",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:45:41.613Z",156,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.776772,43.700644,2,3,2,3,3,2,1,1
+"41",122,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-15T21:44:57.181Z",155,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.81076,43.758945,2,2,3,2,2,3,1,3
+"42",126,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-15T21:49:06.161Z",162,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.826553,43.728834,2,2,1,0,0,3,0,2
+"43",126,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-15T21:47:01.569Z",158,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.798401,43.672044,2,0,2,0,0,2,0,2
+"44",126,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-15T21:47:58.651Z",160,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.736877,43.666282,1,1,0,0,0,0,0,0
+"45",130,"PhD or Higher","65 - 84 years","Female","No","Yes","2016-03-15T21:54:12.993Z",168,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.897278,43.694687,3,3,3,2,2,2,1,3
+"46",130,"PhD or Higher","65 - 84 years","Female","No","Yes","2016-03-15T21:55:55.799Z",170,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.844406,43.693197,3,3,3,2,2,1,1,3
+"47",130,"PhD or Higher","65 - 84 years","Female","No","Yes","2016-03-15T21:58:59.980Z",175,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",14,"POINT",-71.898909,43.704615,3,3,3,2,2,1,1,3
+"48",130,"PhD or Higher","65 - 84 years","Female","No","Yes","2016-03-15T21:55:17.094Z",169,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.872215,43.686246,3,3,3,2,2,1,1,3
+"49",130,"PhD or Higher","65 - 84 years","Female","No","Yes","2016-03-15T21:58:09.573Z",173,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",14,"POINT",-71.881828,43.696052,3,3,3,2,2,1,1,3
+"50",130,"PhD or Higher","65 - 84 years","Female","No","Yes","2016-03-15T22:00:02.882Z",178,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.866722,43.696921,3,3,3,2,2,1,1,3
+"51",130,"PhD or Higher","65 - 84 years","Female","No","Yes","2016-03-15T22:01:05.281Z",179,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.903458,43.721738,3,3,3,2,2,1,1,3
+"52",131,"Associates","45 - 64  years","Male","Yes","Yes","2016-03-15T22:05:53.655Z",196,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"53",131,"Associates","45 - 64  years","Male","Yes","Yes","2016-03-15T22:05:20.757Z",192,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.799431,43.687984,0,2,0,1,1,0,0,1
+"54",131,"Associates","45 - 64  years","Male","Yes","Yes","2016-03-15T22:06:38.851Z",199,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.881828,43.688481,3,3,3,2,2,3,0,3
+"55",131,"Associates","45 - 64  years","Male","Yes","Yes","2016-03-15T22:04:28.650Z",189,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779518,43.701389,0,3,0,2,2,0,0,2
+"56",136,NA,NA,NA,NA,NA,"2016-03-15T21:58:30.180Z",174,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.795311,43.636448,NA,NA,NA,NA,NA,NA,NA,NA
+"57",136,NA,NA,NA,NA,NA,"2016-03-15T21:59:41.053Z",176,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.778831,43.635205,NA,NA,NA,NA,NA,NA,NA,NA
+"58",136,NA,NA,NA,NA,NA,"2016-03-15T22:01:23.481Z",181,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.71948,43.657751,NA,NA,NA,NA,NA,NA,NA,NA
+"59",141,NA,NA,NA,NA,NA,"2016-03-15T22:02:45.982Z",183,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.713257,43.659179,NA,NA,NA,NA,NA,NA,NA,NA
+"60",143,NA,NA,NA,NA,NA,"2016-03-15T22:06:17.823Z",198,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.802521,43.619176,3,3,3,3,3,3,3,3
+"61",143,NA,NA,NA,NA,NA,"2016-03-15T22:03:22.964Z",186,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"62",143,NA,NA,NA,NA,NA,"2016-03-15T22:03:48.931Z",187,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.831017,43.688481,3,3,3,3,3,3,3,3
+"63",143,NA,NA,NA,NA,NA,"2016-03-15T22:04:29.124Z",190,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.812477,43.652472,3,3,3,3,3,3,3,3
+"64",143,NA,NA,NA,NA,NA,"2016-03-15T22:05:24.630Z",193,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.808357,43.636572,NA,NA,NA,NA,NA,NA,NA,NA
+"65",143,NA,NA,NA,NA,NA,"2016-03-15T22:05:33.574Z",194,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"66",143,NA,NA,NA,NA,NA,"2016-03-15T22:06:03.455Z",197,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.785011,43.669982,NA,NA,NA,NA,NA,NA,NA,NA
+"67",145,NA,NA,NA,NA,NA,"2016-03-15T22:08:48.829Z",204,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",18,"POINT",-71.805686,43.699372,NA,NA,NA,NA,NA,NA,NA,NA
+"68",146,NA,NA,NA,NA,NA,"2016-03-15T22:14:23.021Z",205,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"69",148,"High School","45 - 64  years","Male","No","Yes","2016-03-15T22:29:35.197Z",211,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.808357,43.658434,3,3,3,3,3,3,1,3
+"70",148,"High School","45 - 64  years","Male","No","Yes","2016-03-15T22:22:41.926Z",209,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.785698,43.734143,3,3,3,3,3,3,3,3
+"71",148,"High School","45 - 64  years","Male","No","Yes","2016-03-15T22:19:53.112Z",207,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.872559,43.701389,3,3,3,2,2,3,3,3
+"72",148,"High School","45 - 64  years","Male","No","Yes","2016-03-15T22:31:55.937Z",212,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.790161,43.689101,NA,3,3,3,3,3,3,3
+"73",148,"High School","45 - 64  years","Male","No","Yes","2016-03-15T22:26:44.414Z",210,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.790848,43.650982,0,3,3,3,3,3,1,1
+"74",148,"High School","45 - 64  years","Male","No","Yes","2016-03-15T22:21:30.921Z",208,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.866379,43.674328,3,3,3,2,2,3,3,3
+"75",152,NA,NA,NA,NA,NA,"2016-03-15T22:33:50.364Z",213,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.787161,43.644989,0,2,2,1,1,1,1,2
+"76",152,NA,NA,NA,NA,NA,"2016-03-15T22:36:11.024Z",215,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.733742,43.641013,NA,NA,NA,NA,NA,NA,NA,NA
+"77",158,"Bachelors","25 - 44 years","Male","No","Yes","2016-03-15T22:56:59.500Z",220,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.735229,43.615697,2,2,2,0,0,0,0,2
+"78",158,"Bachelors","25 - 44 years","Male","No","Yes","2016-03-15T22:56:28.838Z",219,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.789818,43.693694,0,0,0,0,0,0,1,0
+"79",158,"Bachelors","25 - 44 years","Male","No","Yes","2016-03-15T22:55:27.247Z",218,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.741753,43.668989,2,2,2,0,0,0,0,2
+"80",162,NA,NA,NA,NA,NA,"2016-03-15T23:04:11.812Z",227,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.752224,43.620046,NA,NA,NA,NA,NA,NA,NA,NA
+"81",166,"Bachelors","45 - 64  years","Male","Yes","Yes","2016-03-15T23:20:58.721Z",239,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.735573,43.625141,1,3,2,2,2,3,2,1
+"82",172,NA,NA,NA,NA,NA,"2016-03-15T23:29:56.898Z",243,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.791878,43.646262,NA,NA,NA,NA,NA,NA,NA,NA
+"83",174,NA,NA,NA,NA,NA,"2016-03-15T23:33:36.465Z",244,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.797371,43.616442,NA,NA,NA,NA,NA,NA,NA,NA
+"84",175,NA,NA,NA,NA,NA,"2016-03-15T23:34:11.684Z",245,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.777115,43.659179,NA,NA,NA,NA,NA,NA,NA,NA
+"85",178,NA,NA,NA,NA,NA,"2016-03-15T23:35:58.713Z",246,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"86",179,"PhD or Higher","45 - 64  years","Male","Yes","No","2016-03-15T23:39:40.318Z",247,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.813507,43.699651,1,2,0,1,1,1,0,1
+"87",179,"PhD or Higher","45 - 64  years","Male","Yes","No","2016-03-15T23:40:43.473Z",251,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.747246,43.618928,2,2,1,2,2,1,0,2
+"88",181,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-15T23:40:10.194Z",249,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659986,3,3,3,3,3,NA,3,3
+"89",184,NA,NA,NA,NA,NA,"2016-03-15T23:40:25.852Z",250,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.772995,43.659179,NA,NA,NA,NA,NA,NA,NA,NA
+"90",184,NA,NA,NA,NA,NA,"2016-03-15T23:40:59.712Z",252,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.721153,43.639802,NA,NA,NA,NA,NA,NA,NA,NA
+"91",193,"High School","45 - 64  years","Female","No","Yes","2016-03-16T00:02:23.862Z",261,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.90362,43.737087,3,3,3,3,3,3,NA,3
+"92",193,"High School","45 - 64  years","Female","No","Yes","2016-03-15T23:59:11.637Z",258,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.905513,43.644027,3,3,3,3,3,3,NA,3
+"93",193,"High School","45 - 64  years","Female","No","Yes","2016-03-16T00:10:06.721Z",266,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.813399,43.594756,3,3,3,NA,NA,NA,NA,NA
+"94",193,"High School","45 - 64  years","Female","No","Yes","2016-03-16T00:05:01.161Z",264,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.868557,43.673819,3,3,3,3,3,3,NA,3
+"95",193,"High School","45 - 64  years","Female","No","Yes","2016-03-16T00:00:52.491Z",259,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.840787,43.589304,3,3,3,3,3,3,NA,3
+"96",194,NA,NA,NA,NA,NA,"2016-03-16T00:01:07.786Z",260,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.791534,43.719505,NA,NA,NA,NA,NA,NA,NA,NA
+"97",194,NA,NA,NA,NA,NA,"2016-03-16T00:02:46.223Z",262,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.70948,43.658682,NA,NA,NA,NA,NA,NA,NA,NA
+"98",194,NA,NA,NA,NA,NA,"2016-03-16T00:04:30.679Z",263,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.83342,43.663153,NA,NA,NA,NA,NA,NA,NA,NA
+"99",203,"PhD or Higher","65 - 84 years","Female","Yes","No","2016-03-16T00:12:53.813Z",268,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.731796,43.618679,NA,NA,NA,NA,NA,NA,NA,NA
+"100",203,"PhD or Higher","65 - 84 years","Female","Yes","No","2016-03-16T00:14:22.862Z",270,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.737976,43.617188,NA,NA,NA,NA,NA,NA,NA,NA
+"101",207,NA,NA,NA,NA,NA,"2016-03-16T00:22:30.052Z",275,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.834391,43.664685,1,2,3,1,1,1,NA,2
+"102",207,NA,NA,NA,NA,NA,"2016-03-16T00:23:43.554Z",276,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.722527,43.642948,2,2,2,1,1,1,1,2
+"103",208,NA,NA,NA,NA,NA,"2016-03-16T00:26:01.849Z",277,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.891098,43.661166,NA,NA,NA,NA,NA,NA,NA,NA
+"104",216,NA,NA,NA,NA,NA,"2016-03-16T00:46:40.979Z",278,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.763983,43.632472,2,3,2,1,1,0,0,3
+"105",216,NA,NA,NA,NA,NA,"2016-03-16T00:48:50.567Z",279,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.760979,43.625328,NA,NA,NA,NA,NA,NA,NA,NA
+"106",219,NA,NA,NA,NA,NA,"2016-03-16T00:50:39.944Z",281,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.827068,43.697541,NA,NA,NA,NA,NA,NA,NA,NA
+"107",220,"Bachelors","45 - 64  years","Male","No","No","2016-03-16T00:53:02.565Z",283,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.770763,43.6421,1,3,3,2,2,1,0,3
+"108",220,"Bachelors","45 - 64  years","Male","No","No","2016-03-16T00:51:35.536Z",282,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.774368,43.637318,2,3,3,1,1,1,1,3
+"109",220,"Bachelors","45 - 64  years","Male","No","No","2016-03-16T00:50:07.260Z",280,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.772652,43.639864,2,3,3,1,1,1,0,3
+"110",222,NA,NA,NA,NA,NA,"2016-03-16T01:06:11.993Z",285,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",17,"POINT",-71.802092,43.664763,NA,NA,NA,NA,NA,NA,NA,NA
+"111",223,NA,NA,NA,NA,NA,"2016-03-16T01:14:54.143Z",287,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.898136,43.620543,NA,NA,NA,NA,NA,3,NA,3
+"112",223,NA,NA,NA,NA,NA,"2016-03-16T01:12:47.793Z",286,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.793766,43.683019,NA,3,3,NA,NA,3,NA,NA
+"113",227,"Masters","65 - 84 years","Female","Yes","Yes","2016-03-16T01:42:46.433Z",289,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.742439,43.636075,NA,NA,NA,NA,NA,NA,NA,NA
+"114",227,"Masters","65 - 84 years","Female","Yes","Yes","2016-03-16T01:42:13.984Z",288,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.734543,43.616691,NA,NA,NA,NA,NA,NA,NA,NA
+"115",232,NA,NA,NA,NA,NA,"2016-03-16T02:00:56.678Z",294,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.913757,43.66663,NA,NA,NA,NA,NA,NA,NA,NA
+"116",232,NA,NA,NA,NA,NA,"2016-03-16T01:59:33.696Z",292,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.806984,43.691708,NA,NA,NA,NA,NA,NA,NA,NA
+"117",232,NA,NA,NA,NA,NA,"2016-03-16T01:59:59.274Z",293,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.83857,43.69841,NA,NA,NA,NA,NA,NA,NA,NA
+"118",233,NA,NA,NA,NA,NA,"2016-03-16T02:04:11.054Z",295,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.771622,43.64061,1,3,3,2,2,2,1,3
+"119",238,NA,NA,NA,NA,NA,"2016-03-16T02:40:38.444Z",296,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.793766,43.680722,NA,NA,NA,NA,NA,NA,NA,NA
+"120",240,NA,NA,NA,NA,NA,"2016-03-16T02:54:21.987Z",297,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.76939,43.638684,3,3,NA,NA,NA,NA,3,NA
+"121",247,NA,NA,NA,NA,NA,"2016-03-16T10:17:32.520Z",304,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.760635,43.629366,3,3,3,3,3,3,3,3
+"122",247,NA,NA,NA,NA,NA,"2016-03-16T10:17:52.219Z",305,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.745872,43.673583,3,3,3,3,3,3,3,3
+"123",247,NA,NA,NA,NA,NA,"2016-03-16T10:18:11.681Z",306,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.741066,43.649243,3,3,3,3,3,3,3,3
+"124",247,NA,NA,NA,NA,NA,"2016-03-16T10:19:20.587Z",309,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.824837,43.704119,3,3,3,3,3,3,3,3
+"125",247,NA,NA,NA,NA,NA,"2016-03-16T10:19:46.866Z",310,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.712914,43.636572,3,3,3,3,3,3,3,3
+"126",247,NA,NA,NA,NA,NA,"2016-03-16T10:20:10.458Z",311,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.810074,43.653218,3,3,3,3,3,3,3,3
+"127",247,NA,NA,NA,NA,NA,"2016-03-16T10:20:31.664Z",312,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.818314,43.619922,3,3,3,3,3,3,3,3
+"128",247,NA,NA,NA,NA,NA,"2016-03-16T10:13:41.526Z",298,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.807671,43.686122,3,3,3,2,2,3,2,3
+"129",247,NA,NA,NA,NA,NA,"2016-03-16T10:14:43.647Z",299,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.782951,43.622905,3,3,3,3,3,3,3,3
+"130",247,NA,NA,NA,NA,NA,"2016-03-16T10:15:33.237Z",300,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.799431,43.640548,3,3,3,3,3,3,3,3
+"131",247,NA,NA,NA,NA,NA,"2016-03-16T10:16:09.597Z",301,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.800804,43.707594,3,3,3,3,3,3,3,3
+"132",247,NA,NA,NA,NA,NA,"2016-03-16T10:16:34.864Z",302,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.758232,43.68997,3,3,3,3,3,3,3,3
+"133",247,NA,NA,NA,NA,NA,"2016-03-16T10:16:57.488Z",303,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.796341,43.671348,3,3,3,3,3,3,2,3
+"134",247,NA,NA,NA,NA,NA,"2016-03-16T10:18:36.509Z",307,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.714287,43.668617,3,3,3,3,3,3,3,3
+"135",247,NA,NA,NA,NA,NA,"2016-03-16T10:18:56.309Z",308,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.772995,43.719753,3,3,3,3,3,3,3,3
+"136",247,NA,NA,NA,NA,NA,"2016-03-16T10:20:50.507Z",313,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.798401,43.597798,3,3,3,3,3,3,3,3
+"137",247,NA,NA,NA,NA,NA,"2016-03-16T10:21:15.752Z",314,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.845436,43.688232,3,3,3,3,3,3,3,3
+"138",249,NA,NA,NA,NA,NA,"2016-03-16T10:34:13.858Z",326,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"139",255,NA,NA,NA,NA,NA,"2016-03-16T11:48:23.316Z",327,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.636353,43.688232,NA,NA,NA,NA,NA,NA,NA,NA
+"140",255,NA,NA,NA,NA,NA,"2016-03-16T11:50:36.655Z",328,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",19,"POINT",-71.748651,43.599927,3,3,NA,NA,NA,NA,NA,NA
+"141",255,NA,NA,NA,NA,NA,"2016-03-16T11:51:26.734Z",329,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",18,"POINT",-71.748764,43.600793,3,3,NA,NA,NA,3,NA,NA
+"142",255,NA,NA,NA,NA,NA,"2016-03-16T11:52:39.293Z",330,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.78587,43.758046,3,3,3,3,3,3,NA,3
+"143",264,"PhD or Higher","65 - 84 years","Female","Yes","Yes","2016-03-16T12:58:58.784Z",331,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.789818,43.664891,3,3,3,3,3,3,3,3
+"144",264,"PhD or Higher","65 - 84 years","Female","Yes","Yes","2016-03-16T13:00:33.883Z",332,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.786728,43.690715,3,3,3,3,3,3,3,3
+"145",264,"PhD or Higher","65 - 84 years","Female","Yes","Yes","2016-03-16T13:02:02.200Z",333,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.801147,43.690963,3,3,3,3,3,3,3,3
+"146",272,"Masters","65 - 84 years","Male","No","Yes","2016-03-16T13:20:34.678Z",337,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.797371,43.689474,NA,NA,NA,NA,NA,NA,NA,NA
+"147",272,"Masters","65 - 84 years","Male","No","Yes","2016-03-16T13:23:21.098Z",340,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.772308,43.640051,NA,2,NA,2,2,NA,NA,NA
+"148",272,"Masters","65 - 84 years","Male","No","Yes","2016-03-16T13:23:51.933Z",341,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.746902,43.667127,NA,2,NA,2,2,NA,NA,NA
+"149",272,"Masters","65 - 84 years","Male","No","Yes","2016-03-16T13:22:37.456Z",339,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.774368,43.699651,NA,2,NA,2,2,NA,NA,NA
+"150",272,"Masters","65 - 84 years","Male","No","Yes","2016-03-16T13:21:31.299Z",338,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.782265,43.700396,NA,2,NA,2,2,NA,NA,NA
+"151",277,NA,NA,NA,NA,NA,"2016-03-16T13:28:34.975Z",342,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"152",279,NA,NA,NA,NA,NA,"2016-03-16T15:04:35.830Z",377,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.787758,43.613584,NA,NA,NA,NA,NA,NA,NA,NA
+"153",279,NA,NA,NA,NA,NA,"2016-03-16T15:05:05.532Z",378,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.778831,43.69357,NA,NA,NA,NA,NA,NA,NA,NA
+"154",281,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-16T13:49:54.152Z",345,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.788788,43.697665,2,3,0,0,0,0,0,0
+"155",282,NA,NA,NA,NA,NA,"2016-03-16T14:01:46.858Z",350,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.780891,43.650485,NA,NA,NA,NA,NA,NA,NA,NA
+"156",288,NA,NA,NA,NA,NA,"2016-03-16T14:01:12.071Z",349,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.782265,43.712061,1,3,3,3,3,NA,1,2
+"157",288,NA,NA,NA,NA,NA,"2016-03-16T14:02:19.411Z",351,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.741753,43.688729,2,3,3,3,3,3,1,1
+"158",288,NA,NA,NA,NA,NA,"2016-03-16T14:03:45.487Z",352,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",3,"POINT",-71.817627,43.663898,3,3,3,3,3,3,3,3
+"159",289,NA,NA,NA,NA,NA,"2016-03-16T14:10:14.432Z",353,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.775742,43.711068,1,3,3,3,3,3,1,3
+"160",293,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-16T14:37:18.938Z",356,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.777115,43.642287,NA,3,NA,NA,NA,NA,NA,NA
+"161",293,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-16T14:38:04.704Z",358,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.780205,43.699155,NA,2,NA,NA,NA,NA,NA,NA
+"162",295,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-16T14:37:52.759Z",357,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.774797,43.642535,1,3,2,3,3,1,1,1
+"163",295,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-16T14:37:07.471Z",355,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.868782,43.718264,3,3,3,2,2,1,1,3
+"164",295,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-16T14:36:18.181Z",354,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.852303,43.623899,3,3,3,2,2,1,1,3
+"165",295,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-16T14:40:32.299Z",360,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.708193,43.652783,3,3,3,2,2,2,1,2
+"166",296,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-16T14:41:42.041Z",361,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.793938,43.683515,NA,3,3,NA,NA,3,NA,3
+"167",296,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-16T14:42:57.175Z",363,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.904488,43.63533,NA,3,3,NA,NA,3,NA,3
+"168",296,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-16T14:45:38.925Z",365,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.801491,43.652969,NA,NA,NA,NA,NA,NA,NA,NA
+"169",296,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-16T14:44:31.429Z",364,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.702957,43.678798,NA,3,3,NA,NA,3,NA,3
+"170",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T15:03:50.994Z",376,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.818035,43.619751,0,0,0,2,2,3,0,2
+"171",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T14:54:19.699Z",370,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.775398,43.636696,2,3,2,2,2,2,0,2
+"172",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T14:57:04.405Z",372,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.773682,43.642908,0,3,3,3,3,3,3,1
+"173",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T14:55:42.792Z",371,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.793165,43.64297,3,3,3,3,3,3,0,3
+"174",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T14:59:23.462Z",374,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.735144,43.629614,3,3,3,3,3,3,1,2
+"175",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T15:01:30.716Z",375,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.723042,43.684632,0,0,0,1,1,1,0,1
+"176",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T14:52:42.145Z",369,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.803551,43.663463,3,3,3,0,0,0,0,1
+"177",301,"Masters","25 - 44 years","Male","Yes","Yes","2016-03-16T14:58:15.633Z",373,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.912041,43.64887,3,3,3,3,3,3,0,2
+"178",306,"Bachelors","65 - 84 years","Female","Yes","Yes","2016-03-16T15:43:34.259Z",390,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.793732,43.688729,1,3,1,3,3,2,0,0
+"179",306,"Bachelors","65 - 84 years","Female","Yes","Yes","2016-03-16T15:38:49.121Z",389,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.7388,43.660321,0,3,1,3,3,3,2,0
+"180",318,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-16T19:35:18.112Z",397,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.737976,43.634584,NA,2,NA,2,2,NA,NA,NA
+"181",319,"Associates","45 - 64  years","Male","Yes","No","2016-03-16T19:38:43.807Z",398,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.739006,43.594814,1,2,1,1,1,2,3,2
+"182",319,"Associates","45 - 64  years","Male","Yes","No","2016-03-16T19:43:28.586Z",399,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"183",319,"Associates","45 - 64  years","Male","Yes","No","2016-03-16T19:43:45.111Z",400,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.775742,43.604013,2,3,1,3,3,2,2,3
+"184",319,"Associates","45 - 64  years","Male","Yes","No","2016-03-16T19:34:43.264Z",396,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,2,3,1,1,1,2,1,1
+"185",321,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-16T19:48:32.025Z",404,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.778145,43.698162,1,2,1,2,2,1,1,1
+"186",327,NA,NA,NA,NA,NA,"2016-03-16T20:00:03.836Z",433,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",10,"POINT",-71.765442,43.615597,NA,NA,NA,NA,NA,NA,NA,NA
+"187",327,NA,NA,NA,NA,NA,"2016-03-16T20:13:00.794Z",447,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.853676,43.720845,2,2,3,2,2,2,1,3
+"188",335,NA,NA,NA,NA,NA,"2016-03-16T20:32:30.445Z",454,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.819344,43.69841,NA,NA,2,NA,NA,NA,NA,2
+"189",335,NA,NA,NA,NA,NA,"2016-03-16T20:33:24.784Z",455,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.767502,43.667872,NA,2,NA,NA,NA,NA,NA,NA
+"190",335,NA,NA,NA,NA,NA,"2016-03-16T20:31:37.636Z",452,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.900368,43.66514,NA,NA,NA,NA,NA,NA,NA,NA
+"191",335,NA,NA,NA,NA,NA,"2016-03-16T20:31:56.606Z",453,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.742439,43.664643,2,2,NA,NA,NA,NA,NA,NA
+"192",343,"Masters","45 - 64  years","Male","Yes","No","2016-03-16T21:52:17.180Z",459,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.791534,43.652814,0,2,3,1,1,1,0,3
+"193",343,"Masters","45 - 64  years","Male","Yes","No","2016-03-16T21:48:12.939Z",457,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.799431,43.693446,0,1,3,1,1,1,1,3
+"194",343,"Masters","45 - 64  years","Male","Yes","No","2016-03-16T21:50:06.484Z",458,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.789603,43.679015,1,2,3,1,1,0,0,3
+"195",345,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-16T22:12:54.617Z",466,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.770935,43.640548,2,1,2,0,0,1,0,2
+"196",345,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-16T22:05:13.170Z",465,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.734028,43.622035,2,2,2,0,0,0,0,1
+"197",345,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-16T22:18:47.294Z",467,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.745014,43.619674,1,2,1,0,0,0,0,0
+"198",349,"Masters","65 - 84 years","Male","Yes","No","2016-03-16T22:49:48.863Z",468,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.768103,43.700024,2,NA,3,3,3,NA,NA,3
+"199",349,"Masters","65 - 84 years","Male","Yes","No","2016-03-16T22:51:57.156Z",469,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.787157,43.692732,1,1,2,NA,NA,NA,NA,2
+"200",349,"Masters","65 - 84 years","Male","Yes","No","2016-03-16T22:55:18.747Z",470,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.79368,43.691863,NA,NA,2,NA,NA,NA,NA,NA
+"201",361,NA,NA,NA,NA,NA,"2016-03-17T13:55:57.022Z",475,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.83651,43.696673,2,2,3,3,3,3,1,3
+"202",361,NA,NA,NA,NA,NA,"2016-03-17T13:52:53.040Z",474,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.911354,43.666133,2,2,3,3,3,3,1,3
+"203",361,NA,NA,NA,NA,NA,"2016-03-17T13:57:19.480Z",476,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.806984,43.690218,2,2,3,3,3,3,1,3
+"204",361,NA,NA,NA,NA,NA,"2016-03-17T14:00:58.026Z",477,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.771278,43.712309,NA,NA,NA,NA,NA,NA,NA,NA
+"205",367,"Bachelors","65 - 84 years","Male","No","Yes","2016-03-17T16:07:09.452Z",484,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.737976,43.659676,NA,2,NA,NA,NA,NA,NA,NA
+"206",368,"Masters","65 - 84 years","Male","No","Yes","2016-03-17T16:11:59.558Z",488,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.904144,43.673087,1,1,1,1,1,NA,NA,NA
+"207",368,"Masters","65 - 84 years","Male","No","Yes","2016-03-17T16:10:55.250Z",487,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.734886,43.619176,0,2,0,NA,NA,NA,NA,NA
+"208",370,NA,NA,NA,NA,NA,"2016-03-17T18:06:07.808Z",493,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"209",376,NA,NA,NA,NA,NA,"2016-03-17T20:33:46.352Z",494,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"210",377,NA,NA,NA,NA,NA,"2016-03-17T20:40:19.269Z",496,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.810074,43.655453,NA,NA,NA,NA,NA,NA,NA,NA
+"211",377,NA,NA,NA,NA,NA,"2016-03-17T20:38:55.599Z",495,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.791878,43.637814,NA,NA,NA,NA,NA,NA,NA,NA
+"212",385,NA,NA,NA,NA,NA,"2016-03-18T14:13:12.648Z",502,"Threats to the Landscape","Google Hybrid",12,"POINT",-71.774883,43.663774,2,3,3,3,3,1,1,3
+"213",385,NA,NA,NA,NA,NA,"2016-03-18T14:14:06.668Z",503,"Threats to the Landscape","Google Hybrid",12,"POINT",-71.774883,43.663774,2,3,3,3,3,1,1,3
+"214",387,NA,NA,NA,NA,NA,"2016-03-18T14:22:51.596Z",504,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.874962,43.716527,NA,NA,NA,NA,NA,NA,NA,NA
+"215",388,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-18T14:27:38.623Z",507,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.789474,43.654211,NA,3,3,NA,NA,3,NA,NA
+"216",388,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-18T14:26:33.894Z",506,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.803207,43.674328,NA,NA,NA,NA,NA,NA,NA,NA
+"217",388,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-18T14:25:37.967Z",505,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.875992,43.678549,NA,NA,NA,NA,NA,NA,NA,NA
+"218",393,"Masters","65 - 84 years","Female","Yes","No","2016-03-18T15:56:40.258Z",511,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.794624,43.650485,3,3,3,2,2,1,0,1
+"219",393,"Masters","65 - 84 years","Female","Yes","No","2016-03-18T15:58:15.532Z",512,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.804581,43.671845,NA,2,2,1,1,1,1,2
+"220",395,"Bachelors","45 - 64  years","Male","Yes","Yes","2016-03-18T17:25:50.254Z",519,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.820374,43.719753,2,2,3,2,2,2,0,1
+"221",395,"Bachelors","45 - 64  years","Male","Yes","Yes","2016-03-18T17:27:12.423Z",520,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.788101,43.631851,2,3,3,1,1,1,0,0
+"222",395,"Bachelors","45 - 64  years","Male","Yes","Yes","2016-03-18T17:21:42.255Z",517,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.772995,43.699899,2,1,2,1,1,0,0,0
+"223",395,"Bachelors","45 - 64  years","Male","Yes","Yes","2016-03-18T17:23:33.631Z",518,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.810074,43.677556,1,1,2,2,2,3,0,2
+"224",395,"Bachelors","45 - 64  years","Male","Yes","Yes","2016-03-18T17:28:34.142Z",521,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.725273,43.664643,2,1,2,1,1,1,0,0
+"225",397,NA,NA,NA,NA,NA,"2016-03-18T18:24:23.505Z",527,"Threats to the Landscape","Google Hybrid",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"226",404,NA,NA,NA,NA,NA,"2016-03-18T19:25:27.984Z",528,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.793594,43.645268,NA,NA,NA,NA,NA,NA,NA,NA
+"227",405,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-18T19:36:04.481Z",530,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.868439,43.696673,3,3,3,3,3,NA,NA,NA
+"228",405,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-18T19:38:46.997Z",531,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.817627,43.711316,3,3,3,3,3,NA,NA,NA
+"229",405,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-18T19:29:53.327Z",529,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.783981,43.634833,3,3,NA,NA,NA,NA,NA,NA
+"230",410,NA,NA,NA,NA,NA,"2016-03-18T20:17:54.286Z",533,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,2,2,1,2,2,2,1,2
+"231",411,NA,NA,NA,NA,NA,"2016-03-18T20:49:48.588Z",537,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.725252,43.646072,2,2,1,0,0,0,0,1
+"232",411,NA,NA,NA,NA,NA,"2016-03-18T20:50:30.394Z",538,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.725166,43.64601,2,2,1,0,0,0,0,1
+"233",411,NA,NA,NA,NA,NA,"2016-03-18T20:44:02.987Z",535,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.735693,43.659188,2,2,0,0,0,2,0,2
+"234",411,NA,NA,NA,NA,NA,"2016-03-18T20:49:00.716Z",536,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.725286,43.646097,2,3,2,0,0,0,0,2
+"235",411,NA,NA,NA,NA,NA,"2016-03-18T20:38:09.168Z",534,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.751014,43.650516,NA,NA,NA,NA,NA,NA,NA,NA
+"236",417,NA,NA,NA,NA,NA,"2016-03-19T15:41:41.917Z",539,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.792564,43.658682,0,1,1,1,1,NA,NA,NA
+"237",425,NA,NA,NA,NA,NA,"2016-03-20T11:47:00.257Z",540,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"238",426,NA,NA,NA,NA,NA,"2016-03-20T11:49:10.297Z",542,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.772308,43.639554,NA,NA,NA,NA,NA,NA,NA,NA
+"239",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:38:48.792Z",555,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.763039,43.632845,NA,3,NA,NA,NA,NA,NA,NA
+"240",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:33:49.060Z",549,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.808014,43.641541,NA,NA,NA,NA,NA,NA,NA,NA
+"241",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:32:56.598Z",547,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.71978,43.632596,NA,NA,NA,NA,NA,NA,NA,NA
+"242",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:41:02.000Z",559,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.795311,43.645082,NA,NA,NA,NA,NA,NA,NA,NA
+"243",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:34:23.792Z",550,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.810417,43.672962,NA,NA,NA,NA,NA,NA,NA,NA
+"244",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:35:50.802Z",552,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.733685,43.619674,NA,3,NA,NA,NA,NA,NA,NA
+"245",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:34:47.502Z",551,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.802864,43.660359,NA,NA,NA,NA,NA,NA,NA,NA
+"246",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:37:29.111Z",553,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.750679,43.622905,NA,3,NA,NA,NA,NA,NA,NA
+"247",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:39:29.213Z",556,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.723213,43.629863,NA,3,NA,NA,NA,NA,NA,NA
+"248",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:32:26.425Z",546,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.892815,43.706601,NA,NA,NA,NA,NA,NA,NA,NA
+"249",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:38:16.499Z",554,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.744843,43.662656,NA,3,NA,NA,NA,NA,NA,NA
+"250",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:30:45.488Z",544,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.863976,43.600533,NA,NA,NA,NA,NA,NA,NA,NA
+"251",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:40:31.394Z",558,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.792393,43.668741,NA,3,NA,NA,NA,NA,NA,NA
+"252",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:33:17.416Z",548,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.712227,43.662905,NA,NA,NA,NA,NA,NA,NA,NA
+"253",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:31:38.815Z",545,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.863976,43.670603,NA,NA,NA,NA,NA,NA,NA,NA
+"254",428,"Masters","45 - 64  years","Male","Yes","Yes","2016-03-20T12:39:55.598Z",557,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.730423,43.625141,NA,3,NA,NA,NA,NA,NA,NA
+"255",430,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-20T15:53:48.857Z",573,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.773338,43.683515,1,2,3,2,2,3,1,3
+"256",430,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-20T15:58:39.064Z",575,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.805954,43.636324,2,3,1,2,2,2,3,2
+"257",430,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-20T15:56:40.239Z",574,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.805954,43.636324,2,3,2,2,2,2,2,3
+"258",435,"Bachelors","65 - 84 years","Male","No","No","2016-03-21T03:57:20.663Z",578,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.736946,43.626632,NA,2,NA,3,3,NA,NA,NA
+"259",438,NA,NA,NA,NA,NA,"2016-03-21T14:40:16.750Z",579,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.820374,43.694687,NA,NA,NA,NA,NA,NA,NA,NA
+"260",439,NA,NA,NA,NA,NA,"2016-03-21T18:03:05.565Z",581,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.722183,43.675818,NA,NA,NA,NA,NA,NA,NA,NA
+"261",441,"PhD or Higher","45 - 64  years","Female","Yes","Yes","2016-03-22T01:42:49.499Z",584,"Threats to the Landscape","Google Hybrid",15,"POINT",-71.790273,43.687469,3,3,3,0,0,0,0,3
+"262",441,"PhD or Higher","45 - 64  years","Female","Yes","Yes","2016-03-22T01:41:16.764Z",582,"Threats to the Landscape","Google Hybrid",15,"POINT",-71.79159,43.687851,3,3,3,0,0,0,0,3
+"263",441,"PhD or Higher","45 - 64  years","Female","Yes","Yes","2016-03-22T01:41:59.682Z",583,"Threats to the Landscape","Google Hybrid",15,"POINT",-71.79247,43.686972,3,3,3,0,0,0,0,3
+"264",443,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-22T16:55:35.217Z",596,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.840149,43.721291,3,3,3,3,3,3,3,3
+"265",443,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-22T16:56:46.332Z",597,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.847839,43.656546,3,3,3,3,3,3,3,3
+"266",446,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-22T17:38:45.504Z",603,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.793594,43.693942,2,1,2,1,1,1,0,0
+"267",457,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-24T15:23:26.593Z",608,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.788273,43.733275,2,NA,2,NA,NA,0,0,0
+"268",457,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-24T15:21:50.723Z",606,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.830845,43.698782,1,2,0,0,0,0,0,0
+"269",457,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-24T15:25:55.557Z",616,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.787586,43.675694,NA,3,NA,NA,NA,NA,NA,NA
+"270",457,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-24T15:26:12.246Z",618,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.786556,43.669237,NA,3,3,NA,NA,NA,NA,NA
+"271",457,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-24T15:22:14.701Z",607,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.740208,43.618804,0,0,3,0,0,0,0,0
+"272",457,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-24T15:21:04.915Z",605,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.749992,43.627129,NA,2,2,0,0,0,0,0
+"273",457,"Bachelors","25 - 44 years","Male","Yes","No","2016-03-24T15:24:55.037Z",613,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.781406,43.62452,1,2,0,0,0,0,0,0
+"274",460,NA,NA,NA,NA,NA,"2016-03-24T15:26:43.474Z",619,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",8,"POINT",-72.70752,43.882057,NA,NA,NA,NA,NA,NA,NA,NA
+"275",460,NA,NA,NA,NA,NA,"2016-03-24T15:24:20.233Z",611,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.803379,43.689474,NA,NA,NA,NA,NA,NA,NA,NA
+"276",460,NA,NA,NA,NA,NA,"2016-03-24T15:27:23.808Z",621,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",8,"POINT",-72.70752,43.882057,NA,NA,NA,NA,NA,NA,NA,NA
+"277",466,NA,NA,NA,NA,NA,"2016-03-24T15:28:41.924Z",623,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.759777,43.657378,1,2,2,2,2,1,1,3
+"278",466,NA,NA,NA,NA,NA,"2016-03-24T15:30:47.173Z",627,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.759348,43.711936,1,2,3,3,3,3,0,3
+"279",466,NA,NA,NA,NA,NA,"2016-03-24T15:24:52.022Z",612,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.787758,43.69568,0,1,3,1,1,1,NA,3
+"280",466,NA,NA,NA,NA,NA,"2016-03-24T15:25:35.782Z",615,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.745529,43.637069,2,2,3,2,2,2,0,3
+"281",466,NA,NA,NA,NA,NA,"2016-03-24T15:27:31.822Z",622,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.792822,43.659055,1,2,3,2,2,1,1,3
+"282",466,NA,NA,NA,NA,NA,"2016-03-24T15:23:40.712Z",609,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.742096,43.6152,2,3,3,2,2,3,0,2
+"283",468,"Masters","45 - 64  years","Male","No","No","2016-03-24T15:24:11.018Z",610,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.741753,43.664146,3,3,1,1,1,0,0,1
+"284",470,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T16:00:45.143Z",675,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.881742,43.680629,3,3,3,3,3,2,1,3
+"285",470,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T15:58:45.597Z",670,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.910238,43.682553,3,3,3,3,3,2,1,3
+"286",470,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T15:57:12.916Z",665,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.872387,43.678674,3,3,3,3,3,2,1,3
+"287",470,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T16:15:57.899Z",685,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.723213,43.67408,3,3,3,3,3,2,1,3
+"288",470,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T15:50:10.205Z",658,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.895304,43.67439,3,3,3,3,3,2,1,3
+"289",470,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T16:09:57.083Z",681,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.812477,43.7267,3,3,3,3,3,NA,1,3
+"290",473,NA,NA,NA,NA,NA,"2016-03-24T15:33:15.942Z",629,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"291",476,NA,NA,NA,NA,NA,"2016-03-24T15:30:02.605Z",625,"Threats to the Landscape","Google Hybrid",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"292",476,NA,NA,NA,NA,NA,"2016-03-24T15:30:43.813Z",626,"Threats to the Landscape","Google Hybrid",12,"POINT",-71.756172,43.651975,NA,NA,NA,NA,NA,NA,NA,NA
+"293",476,NA,NA,NA,NA,NA,"2016-03-24T15:31:44.204Z",628,"Threats to the Landscape","Google Hybrid",13,"POINT",-71.862946,43.653031,NA,NA,NA,NA,NA,NA,NA,NA
+"294",480,"PhD or Higher","45 - 64  years","Male","Yes","Yes","2016-03-24T15:36:28.774Z",634,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.779733,43.696804,3,3,3,2,2,0,0,3
+"295",480,"PhD or Higher","45 - 64  years","Male","Yes","Yes","2016-03-24T15:34:31.441Z",631,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.795139,43.688077,3,3,3,0,0,0,0,3
+"296",480,"PhD or Higher","45 - 64  years","Male","Yes","Yes","2016-03-24T15:35:14.496Z",632,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.795547,43.689256,3,3,3,0,0,0,0,3
+"297",480,"PhD or Higher","45 - 64  years","Male","Yes","Yes","2016-03-24T15:33:57.231Z",630,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.794538,43.689148,3,3,3,0,0,0,0,3
+"298",480,"PhD or Higher","45 - 64  years","Male","Yes","Yes","2016-03-24T15:35:45.089Z",633,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.792521,43.689986,3,3,3,0,0,0,0,3
+"299",482,NA,NA,NA,NA,NA,"2016-03-24T15:38:12.389Z",637,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"300",485,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-24T15:42:21.948Z",641,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.660048,NA,2,2,2,2,2,NA,2
+"301",485,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-24T15:50:02.950Z",657,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.737289,43.642287,3,3,3,3,3,3,3,3
+"302",485,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-24T15:48:37.848Z",655,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.660048,NA,NA,NA,NA,NA,NA,NA,NA
+"303",485,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-24T15:49:23.744Z",656,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.867409,43.71479,3,3,3,3,3,3,3,3
+"304",485,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-24T15:43:12.464Z",642,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.92646,43.733647,2,2,2,2,2,2,2,2
+"305",485,"Bachelors","45 - 64  years","Male","Yes","No","2016-03-24T15:39:51.490Z",639,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.912727,43.666878,NA,NA,NA,NA,NA,NA,NA,NA
+"306",493,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T15:46:36.116Z",648,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.72596,43.680784,3,2,2,0,0,2,0,2
+"307",493,"Bachelors","45 - 64  years","Male","No","Yes","2016-03-24T15:50:56.056Z",659,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.746559,43.623402,2,3,2,2,2,2,1,1
+"308",494,"Masters","","Female","Yes","Yes","2016-03-24T15:54:06.012Z",660,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.818314,43.718885,NA,NA,NA,NA,NA,NA,NA,NA
+"309",494,"Masters","","Female","Yes","Yes","2016-03-24T15:54:26.499Z",661,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.769218,43.690467,NA,NA,NA,NA,NA,NA,NA,NA
+"310",498,NA,NA,NA,NA,NA,"2016-03-24T15:56:49.891Z",664,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.735723,43.619083,NA,3,NA,NA,NA,NA,NA,NA
+"311",498,NA,NA,NA,NA,NA,"2016-03-24T15:55:46.828Z",663,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.769218,43.698907,NA,3,NA,NA,NA,NA,NA,NA
+"312",502,NA,NA,NA,NA,NA,"2016-03-24T16:00:16.062Z",674,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.791191,43.656074,NA,NA,NA,NA,NA,NA,NA,NA
+"313",502,NA,NA,NA,NA,NA,"2016-03-24T15:59:39.699Z",673,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.760979,43.672342,NA,NA,NA,NA,NA,NA,NA,NA
+"314",506,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T16:09:02.876Z",680,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.902314,43.667872,NA,NA,NA,3,3,3,NA,NA
+"315",506,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T16:07:44.879Z",678,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.738436,43.693031,3,NA,NA,NA,NA,NA,NA,NA
+"316",507,"Bachelors","65 - 84 years","Female","Yes","Yes","2016-03-24T16:10:06.393Z",682,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.791534,43.679543,2,2,2,0,0,2,0,2
+"317",507,"Bachelors","65 - 84 years","Female","Yes","Yes","2016-03-24T16:07:21.833Z",677,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.770248,43.687239,0,1,2,0,0,2,0,2
+"318",509,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-24T16:17:47.178Z",688,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.785419,43.696145,2,2,2,0,0,0,0,1
+"319",509,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-24T16:14:33.418Z",684,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.76718,43.687891,3,2,2,0,0,1,0,1
+"320",509,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-24T16:22:02.195Z",698,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.806211,43.676066,3,2,2,2,2,2,0,2
+"321",510,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T16:34:46.653Z",721,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",18,"POINT",-71.880558,43.609907,0,0,0,0,0,0,0,0
+"322",510,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T17:06:07.793Z",742,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.766691,43.607848,NA,NA,NA,NA,NA,NA,NA,NA
+"323",510,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T16:43:35.899Z",724,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.790985,43.6431,NA,NA,NA,NA,NA,NA,NA,NA
+"324",510,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T16:28:23.617Z",714,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",18,"POINT",-71.798472,43.614105,3,2,1,1,1,0,0,1
+"325",510,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T16:48:38.119Z",726,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",16,"POINT",-71.816069,43.614827,NA,NA,NA,NA,NA,NA,NA,NA
+"326",510,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-24T16:16:13.481Z",686,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.769626,43.606996,2,3,2,1,1,1,0,2
+"327",514,"Masters","65 - 84 years","Male","No","Yes","2016-03-24T16:19:05.274Z",690,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.735621,43.646724,2,2,3,2,2,1,1,3
+"328",514,"Masters","65 - 84 years","Male","No","Yes","2016-03-24T16:17:31.059Z",687,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.781726,43.631814,2,3,2,2,2,1,0,3
+"329",516,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-24T16:21:16.871Z",695,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.907578,43.678301,3,3,3,3,3,3,3,3
+"330",516,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-24T16:21:44.040Z",697,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.70433,43.693197,3,3,3,3,3,3,3,3
+"331",516,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-24T16:20:04.464Z",691,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.824493,43.664891,3,3,3,3,3,3,3,3
+"332",516,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-24T16:20:49.623Z",694,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",11,"POINT",-71.768188,43.650485,3,3,3,3,3,3,3,3
+"333",521,NA,NA,NA,NA,NA,"2016-03-24T16:26:17.897Z",711,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,0,1,2,1,1,0,0,2
+"334",527,"High School","65 - 84 years","Female","No","Yes","2016-03-24T17:38:35.958Z",755,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"335",529,"PhD or Higher","65 - 84 years","Male","Yes","No","2016-03-24T16:42:56.550Z",723,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.767011,43.687453,3,3,3,0,0,2,1,1
+"336",533,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-24T16:56:44.269Z",729,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.902771,43.65744,1,2,2,1,1,1,1,2
+"337",533,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-24T16:57:20.990Z",731,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.739349,43.658434,2,2,2,0,0,0,1,1
+"338",533,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-24T16:55:58.953Z",728,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.83239,43.696176,NA,NA,NA,NA,NA,NA,NA,NA
+"339",533,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-24T16:58:16.961Z",732,"Threats to the Landscape","Roads and Terrain, Newfound Lake Watershed",12,"POINT",-71.779261,43.659986,0,3,2,0,0,0,1,1
+"340",540,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-24T17:08:46.320Z",743,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"341",540,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-24T17:09:18.779Z",744,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.739006,43.660421,NA,NA,NA,NA,NA,NA,NA,NA
+"342",540,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-24T17:24:19.308Z",752,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.819344,43.682274,NA,3,3,NA,NA,3,NA,3
+"343",540,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-24T17:27:39.744Z",753,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.785698,43.63856,NA,NA,NA,NA,NA,NA,NA,NA
+"344",540,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-24T17:20:36.919Z",751,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.795654,43.692204,NA,3,NA,NA,NA,NA,NA,NA
+"345",540,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-24T17:28:09.870Z",754,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.777458,43.634336,NA,3,NA,3,3,3,NA,NA
+"346",542,NA,NA,NA,NA,NA,"2016-03-24T17:16:48.688Z",748,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"347",542,NA,NA,NA,NA,NA,"2016-03-24T17:16:02.904Z",747,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659924,1,1,1,1,1,1,1,1
+"348",542,NA,NA,NA,NA,NA,"2016-03-24T17:13:08.004Z",745,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659924,1,2,1,1,1,1,1,1
+"349",542,NA,NA,NA,NA,NA,"2016-03-24T17:14:59.932Z",746,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779261,43.659924,1,2,1,1,1,1,1,1
+"350",544,NA,NA,NA,NA,NA,"2016-03-24T17:17:00.077Z",749,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"351",544,NA,NA,NA,NA,NA,"2016-03-24T17:17:42.587Z",750,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",10,"POINT",-71.778351,43.607245,1,2,2,0,0,0,0,2
+"352",558,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-24T18:10:44.211Z",759,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.789904,43.748219,3,1,3,3,3,3,3,3
+"353",558,"Bachelors","45 - 64  years","Female","Yes","No","2016-03-24T18:07:25.384Z",758,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.81385,43.671348,3,3,3,2,2,3,2,3
+"354",561,NA,NA,NA,NA,NA,"2016-03-24T18:11:41.230Z",760,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"355",564,NA,NA,NA,NA,NA,"2016-03-24T18:29:20.351Z",765,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,0,1,2,2,2,3,1,2
+"356",571,"Masters","65 - 84 years","Male","Yes","No","2016-03-24T19:15:58.155Z",766,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.789818,43.712557,NA,NA,NA,NA,NA,NA,NA,NA
+"357",575,NA,NA,NA,NA,NA,"2016-03-24T19:21:52.400Z",768,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.603394,43.575665,NA,NA,NA,NA,NA,NA,NA,NA
+"358",588,NA,NA,NA,NA,NA,"2016-03-25T04:17:55.770Z",803,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",10,"POINT",-71.519623,43.534612,NA,NA,NA,NA,NA,NA,NA,NA
+"359",588,NA,NA,NA,NA,NA,"2016-03-24T20:56:02.010Z",774,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,3,3,3,3,3,3,3,3
+"360",588,NA,NA,NA,NA,NA,"2016-03-24T20:55:35.953Z",773,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"361",590,"PhD or Higher","65 - 84 years","Male","Yes","No","2016-03-24T21:08:53.766Z",780,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.733513,43.627378,1,2,2,2,2,1,1,2
+"362",598,NA,NA,NA,NA,NA,"2016-03-24T21:45:35.772Z",787,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.745872,43.630484,NA,NA,NA,NA,NA,NA,NA,NA
+"363",601,NA,NA,NA,NA,NA,"2016-03-25T00:48:42.462Z",796,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.760979,43.63036,NA,NA,NA,NA,NA,NA,NA,NA
+"364",603,"Masters","65 - 84 years","Male","Yes","No","2016-03-25T00:08:18.239Z",789,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.722183,43.676811,NA,NA,NA,NA,NA,NA,NA,NA
+"365",603,"Masters","65 - 84 years","Male","Yes","No","2016-03-25T00:06:45.439Z",788,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.707077,43.646013,NA,NA,NA,NA,NA,2,NA,NA
+"366",605,"Masters","65 - 84 years","Male","Yes","No","2016-03-25T00:22:19.704Z",792,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.793938,43.683515,NA,NA,NA,NA,NA,NA,NA,NA
+"367",605,"Masters","65 - 84 years","Male","Yes","No","2016-03-25T00:20:57.978Z",791,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,1,2,1,2,2,2,0,2
+"368",607,NA,NA,NA,NA,NA,"2016-03-25T00:36:32.532Z",793,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"369",610,NA,NA,NA,NA,NA,"2016-03-25T01:38:30.185Z",797,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.71692,43.648498,NA,NA,NA,NA,NA,NA,NA,NA
+"370",611,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-25T01:41:56.342Z",799,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.758919,43.614205,NA,NA,NA,NA,NA,NA,NA,NA
+"371",611,"Bachelors","65 - 84 years","Male","Yes","No","2016-03-25T01:39:51.737Z",798,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.801834,43.6711,2,2,NA,NA,NA,NA,NA,2
+"372",618,"Masters","45 - 64  years","Female","Yes","Yes","2016-03-25T09:18:19.105Z",804,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.756859,43.667375,3,3,3,0,0,3,0,3
+"373",620,"Bachelors","45 - 64  years","Female","Yes","Yes","2016-03-25T11:50:12.144Z",807,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.788788,43.695431,NA,NA,NA,NA,NA,NA,NA,NA
+"374",626,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-25T13:26:44.980Z",811,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,2,2,1,0,0,2,1,3
+"375",626,"Masters","65 - 84 years","Male","Yes","Yes","2016-03-25T13:25:33.202Z",810,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.771965,43.648498,2,2,1,0,0,1,1,3
+"376",630,"Masters","65 - 84 years","Female","Yes","No","2016-03-25T14:20:23.789Z",816,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.806941,43.677044,2,1,2,2,2,1,0,2
+"377",630,"Masters","65 - 84 years","Female","Yes","No","2016-03-25T14:17:16.378Z",815,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.801577,43.662594,3,1,3,2,2,2,0,2
+"378",630,"Masters","65 - 84 years","Female","Yes","No","2016-03-25T14:22:25.563Z",817,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.793723,43.736918,2,2,2,2,2,NA,0,2
+"379",633,NA,NA,NA,NA,NA,"2016-03-25T14:58:00.368Z",834,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.755142,43.629863,1,1,1,2,2,1,1,2
+"380",634,NA,NA,NA,NA,NA,"2016-03-25T14:59:45.233Z",835,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.926804,43.744561,NA,NA,NA,NA,NA,NA,NA,NA
+"381",634,NA,NA,NA,NA,NA,"2016-03-25T15:00:03.959Z",836,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.749649,43.725956,NA,NA,NA,NA,NA,NA,NA,NA
+"382",637,NA,NA,NA,NA,NA,"2016-03-25T15:32:10.209Z",837,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.843033,43.661663,NA,NA,NA,NA,NA,NA,NA,NA
+"383",638,NA,NA,NA,NA,NA,"2016-03-25T15:57:16.146Z",838,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",13,"POINT",-71.7869,43.640548,NA,NA,NA,NA,NA,NA,NA,NA
+"384",644,NA,NA,NA,NA,NA,"2016-03-25T18:33:52.332Z",840,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.774712,43.692204,NA,NA,NA,NA,NA,NA,NA,NA
+"385",646,NA,NA,NA,NA,NA,"2016-03-25T18:35:02.608Z",841,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.776772,43.616442,3,3,2,3,3,3,3,3
+"386",648,NA,NA,NA,NA,NA,"2016-03-25T19:43:19.443Z",842,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"387",648,NA,NA,NA,NA,NA,"2016-03-25T19:45:48.238Z",843,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.768188,43.663525,2,2,1,2,2,1,1,1
+"388",649,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-25T21:27:20.385Z",845,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.790848,43.666133,NA,NA,NA,NA,NA,NA,NA,NA
+"389",649,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-25T21:27:36.420Z",846,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.742439,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"390",649,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-25T21:20:45.976Z",844,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.788101,43.637318,3,3,NA,NA,NA,NA,NA,3
+"391",649,"Bachelors","65 - 84 years","Male","Yes","Yes","2016-03-25T21:27:50.164Z",847,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.765099,43.675321,3,3,3,3,3,NA,NA,NA
+"392",650,NA,NA,NA,NA,NA,"2016-03-25T21:31:31.659Z",848,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.852989,43.648746,2,3,2,3,3,3,0,3
+"393",650,NA,NA,NA,NA,NA,"2016-03-25T21:32:51.935Z",849,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.798401,43.652969,NA,NA,NA,2,2,NA,NA,NA
+"394",657,NA,NA,NA,NA,NA,"2016-03-25T23:56:27.093Z",854,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"395",657,NA,NA,NA,NA,NA,"2016-03-25T23:57:30.467Z",856,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659676,NA,NA,NA,NA,NA,NA,NA,NA
+"396",657,NA,NA,NA,NA,NA,"2016-03-25T23:56:47.682Z",855,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,3,3,3,3,3,3,3,3
+"397",658,NA,NA,NA,NA,NA,"2016-03-26T00:10:58.690Z",861,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.803894,43.602397,NA,NA,NA,NA,NA,NA,NA,NA
+"398",658,NA,NA,NA,NA,NA,"2016-03-26T00:10:35.704Z",860,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.806297,43.676563,NA,NA,NA,NA,NA,NA,NA,NA
+"399",658,NA,NA,NA,NA,NA,"2016-03-26T00:10:01.217Z",859,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.806297,43.648994,NA,NA,NA,NA,NA,NA,NA,NA
+"400",658,NA,NA,NA,NA,NA,"2016-03-26T00:09:25.490Z",858,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.762695,43.635081,NA,NA,NA,NA,NA,NA,NA,NA
+"401",666,NA,NA,NA,NA,NA,"2016-03-26T21:13:31.741Z",865,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,NA,NA,NA,NA,NA,NA,NA,NA
+"402",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:02:17.015Z",867,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.789474,43.611471,3,3,3,3,3,3,1,3
+"403",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:04:22.383Z",870,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.776772,43.701637,3,3,3,3,3,2,2,3
+"404",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:06:56.075Z",874,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.759949,43.621165,3,3,3,3,3,3,2,3
+"405",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:03:06.918Z",868,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.802521,43.687736,3,3,3,2,2,2,2,3
+"406",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:06:11.026Z",873,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.732483,43.611222,3,3,3,3,3,3,2,3
+"407",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:04:58.040Z",871,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.736259,43.653963,3,3,3,3,3,3,2,3
+"408",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:05:32.257Z",872,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.795998,43.654211,3,3,3,3,3,3,1,3
+"409",670,"Masters","65 - 84 years","Male","Yes","No","2016-03-27T15:03:50.415Z",869,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.737633,43.631602,3,3,3,2,2,3,2,3
+"410",673,NA,NA,NA,NA,NA,"2016-03-27T18:47:50.777Z",878,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.769905,43.722234,2,2,2,2,2,NA,NA,NA
+"411",673,NA,NA,NA,NA,NA,"2016-03-27T18:53:25.725Z",883,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.897964,43.681777,NA,NA,3,3,3,3,NA,3
+"412",673,NA,NA,NA,NA,NA,"2016-03-27T18:54:28.407Z",884,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.849213,43.592825,NA,NA,3,3,3,3,NA,3
+"413",673,NA,NA,NA,NA,NA,"2016-03-27T18:48:46.054Z",879,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.797028,43.690467,2,2,2,2,2,NA,2,NA
+"414",673,NA,NA,NA,NA,NA,"2016-03-27T18:51:43.438Z",882,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.708794,43.640051,3,NA,3,3,3,3,NA,3
+"415",673,NA,NA,NA,NA,NA,"2016-03-27T18:49:59.676Z",880,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.806297,43.673832,2,2,2,NA,NA,NA,NA,2
+"416",673,NA,NA,NA,NA,NA,"2016-03-27T18:50:43.391Z",881,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.777115,43.632596,NA,3,NA,NA,NA,NA,NA,3
+"417",676,NA,NA,NA,NA,NA,"2016-03-27T21:21:13.852Z",885,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.742096,43.658682,NA,NA,NA,NA,NA,NA,NA,NA
+"418",677,NA,NA,NA,NA,NA,"2016-03-28T00:48:26.353Z",886,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.753082,43.703622,NA,NA,NA,NA,NA,NA,NA,NA
+"419",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:41:28.433Z",887,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.797071,43.684539,3,3,3,3,3,3,3,3
+"420",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:48:24.015Z",895,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.753426,43.678612,3,3,3,3,3,3,2,3
+"421",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:49:10.433Z",896,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.794024,43.696052,3,3,3,3,3,3,2,3
+"422",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:49:53.699Z",897,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.791792,43.702754,3,3,3,3,3,3,2,3
+"423",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:47:59.270Z",894,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.753254,43.688108,3,3,3,3,3,3,2,3
+"424",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:51:09.789Z",899,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.765785,43.6963,3,3,3,3,3,3,2,3
+"425",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:51:36.039Z",900,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.790848,43.708896,3,3,3,3,3,3,2,3
+"426",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:42:30.794Z",888,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.785183,43.692142,3,3,3,3,3,3,2,3
+"427",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:44:04.181Z",889,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.772652,43.686743,NA,NA,NA,NA,NA,NA,NA,NA
+"428",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:44:21.622Z",890,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.773081,43.68727,3,3,3,3,3,3,2,3
+"429",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:45:13.109Z",891,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.80501,43.68575,3,3,3,3,3,3,2,3
+"430",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:45:47.957Z",892,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",15,"POINT",-71.790204,43.678425,3,3,3,3,3,3,2,3
+"431",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:46:46.445Z",893,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.764326,43.688046,3,3,3,3,3,3,2,3
+"432",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:58:53.561Z",907,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.804581,43.661352,3,3,3,3,3,3,2,3
+"433",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:59:20.070Z",908,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.799517,43.676501,3,3,3,3,3,NA,2,3
+"434",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:59:50.340Z",909,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.739092,43.669113,3,3,3,3,3,NA,2,3
+"435",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T07:00:36.463Z",910,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.796427,43.642038,3,3,3,3,3,3,2,3
+"436",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:50:37.828Z",898,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.772051,43.698224,3,3,3,3,3,3,2,3
+"437",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T07:02:10.960Z",912,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.729479,43.639429,3,3,3,3,3,3,2,3
+"438",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T07:02:45.339Z",913,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.752052,43.62073,3,3,3,3,3,3,2,3
+"439",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:52:00.100Z",901,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.805267,43.700706,3,3,3,3,3,3,2,3
+"440",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:52:27.379Z",902,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.77866,43.704243,3,3,3,3,3,3,2,3
+"441",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:53:03.884Z",903,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.769648,43.704553,3,3,3,3,3,3,2,3
+"442",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:53:33.094Z",904,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.81222,43.693197,3,3,3,3,3,3,2,3
+"443",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:54:17.401Z",905,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.790419,43.667189,3,3,3,3,3,3,2,3
+"444",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T06:54:59.142Z",906,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.793337,43.653155,3,3,3,3,3,3,2,3
+"445",678,"Associates","45 - 64  years","Male","Yes","No","2016-03-28T07:01:21.369Z",911,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.749992,43.655764,3,3,3,3,3,3,2,3
+"446",682,NA,NA,NA,NA,NA,"2016-03-28T13:03:38.746Z",923,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.73317,43.619176,NA,NA,NA,NA,NA,NA,NA,NA
+"447",689,NA,NA,NA,NA,NA,"2016-03-28T18:26:53.531Z",926,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.800461,43.650982,NA,NA,NA,NA,NA,NA,NA,NA
+"448",689,NA,NA,NA,NA,NA,"2016-03-28T18:24:26.391Z",924,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.792908,43.64179,NA,NA,NA,NA,NA,NA,NA,NA
+"449",689,NA,NA,NA,NA,NA,"2016-03-28T18:25:54.701Z",925,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.799774,43.633839,NA,NA,NA,NA,NA,NA,NA,NA
+"450",692,NA,NA,NA,NA,NA,"2016-03-29T01:13:44.837Z",927,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659986,0,2,1,0,0,0,0,1
+"451",692,NA,NA,NA,NA,NA,"2016-03-29T01:15:26.730Z",928,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.758575,43.616194,NA,NA,NA,NA,NA,NA,NA,NA
+"452",693,"Bachelors","65 - 84 years","Female","Yes","Yes","2016-03-29T01:18:46.820Z",929,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",14,"POINT",-71.782608,43.615759,2,3,1,0,0,3,0,3
+"453",695,"Masters","45 - 64  years","Female","Yes","No","2016-03-29T13:53:36.311Z",933,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.828613,43.66961,0,0,3,3,3,3,0,3
+"454",695,"Masters","45 - 64  years","Female","Yes","No","2016-03-29T13:54:31.420Z",934,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.769905,43.715783,0,0,3,3,3,3,0,3
+"455",695,"Masters","45 - 64  years","Female","Yes","No","2016-03-29T13:55:32.273Z",935,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.847839,43.62191,0,0,3,3,3,3,0,3
+"456",698,NA,NA,NA,NA,NA,"2016-03-30T00:50:53.137Z",945,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.779175,43.659924,NA,NA,NA,NA,NA,NA,NA,NA
+"457",699,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-30T01:08:35.398Z",946,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.863289,43.677556,2,3,3,3,3,3,1,3
+"458",699,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-30T01:11:35.313Z",947,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.783981,43.72546,2,3,3,2,2,3,1,3
+"459",699,"Bachelors","45 - 64  years","Female","No","Yes","2016-03-30T01:18:17.500Z",948,"Threats to the Landscape","Google Hybrid, Newfound Lake Watershed",12,"POINT",-71.791191,43.637814,3,3,1,0,0,1,0,2
