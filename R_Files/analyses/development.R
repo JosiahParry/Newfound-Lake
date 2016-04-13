@@ -38,7 +38,8 @@ prop.test(x = c(p1$n, p2$n), n = c(dim(member)[1], dim(nonmmbr)[1]), correct = F
 #ALL respondents believe should be developed at the same rate
 
 #Housing
-#high density appartments\
+#high density appartments
+t.test(member$highdensity_apartments, nonmmbr$highdensity_apartments)
       #extremely different. p = 0
 
 #high density single family homes

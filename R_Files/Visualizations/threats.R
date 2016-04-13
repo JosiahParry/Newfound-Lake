@@ -2,6 +2,7 @@ library(ggvis)
 library(ggplot2)
 library(cowplot)
 library(dplyr)
+require(scales)
 threats <- read.csv("/Users/Josiah/Google Drive/College/Spring 2016/PPGIS/Newfound_GIT/Data/clean_threats.csv")
 demo <- read.csv("/Users/Josiah/Google Drive/College/Spring 2016/PPGIS/Newfound_GIT/Data/demographics.csv")
 
@@ -48,7 +49,7 @@ res <- demo %>% filter(NH_Resident_Yes2 != "")
 NHResident <- ggplot(na.omit(res), aes(NH_Resident_Yes2, fill = Gender)) + geom_bar() + facet_wrap(~Gender)
 
 
-#Threats 
+#Threats by Gender
 sq <- ggplot((na.omit(threats)), aes(factor(soil_quality)))+ geom_bar() + facet_grid(~Gender) + aes(fill = Gender)
 wq <- ggplot((na.omit(threats)), aes(factor(waterquality))) + geom_bar()+ facet_grid(~Gender) + aes(fill = Gender)
 wl <- ggplot((na.omit(threats)), aes(factor(wildlife))) + geom_bar()+ facet_grid(~Gender) + aes(fill = Gender)
@@ -73,4 +74,14 @@ ggsave("allthreats.pdf",
   ggplot(na.omit(threats), aes(waterquality)) + geom_bar() + facet_wrap(~ Gender) + aes(fill = Gender) + 
   scale_x_discrete(limits = c("High School", "Associates", "Bachelors", "Masters", "PhD or Higher"))
 
-ggplot(na.omit(threats), aes(education, fill = Gender)) + geom_bar(position = "dodge") + facet_grid(~Gender)
+#-------------------------------------------------------------------------------------------------------
+
+
+wqnm <- threats %>% filter(NLRA_Member == "No") %>% ggplot(aes(waterquality)) +
+    geom_bar(aes(y = (..count..)/sum(..count..))) + labs(title = "Water Quality (Non-Member)")
+  
+wqm <- threats %>% filter(NLRA_Member == "Yes") %>% ggplot(aes(waterquality)) +
+    geom_bar(aes(y = (..count..)/sum(..count..)), fill = "#93eabf") + labs(title = "Water Quality (Member)")
+
+plot_grid(wqnm, wqm)
+  
