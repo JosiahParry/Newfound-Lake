@@ -1,0 +1,105 @@
+---
+title: "Development Analysis *(WIP)*"
+author: "Josiah Parry"
+date: "April 25, 2016"
+output: html_document
+---
+
+The purpose of this document is to compare the responses to the development portion of the Newfound Lake PPGIS Study. This analysis will explore the difference between Non-Member and Member responses. 
+
+First I begin by creating two different data frames, one with members and the other with non-members.
+```{r, include=FALSE}
+library(dplyr)
+library(cowplot)
+library(ggplot2)
+dev <- read.csv("/Users/Josiah/Google Drive/College/Spring 2016/PPGIS/Newfound_GIT/Data/clean_development.csv")
+```
+
+```{r}
+member <- dev %>% filter(NLRA_Member == "Yes")
+nonmmbr <- dev %>% filter(NLRA_Member == "No")
+```
+---
+I first wanted to check to see if there were any significant differences in the genders of our respondents.
+
+```{r}
+p1 <- member %>% filter(Gender == "Male") %>% summarize(n = n())
+p2 <-nonmmbr %>% filter(Gender == "Male") %>% summarize(n = n())
+
+prop.test(x = c(p1$n, p2$n), n = c(dim(member)[1], dim(nonmmbr)[1]), correct = FALSE)
+```
+
+Responses by gender proportion significantly different `(p = 0.03)`. Members are 70% Male, 30% Female. Non-members are 45% male, 55% female. This is just good to note.
+
+###Housing
+Two sample t-tests were conducted to test for similarity in responses. 
+```{r, results='hide'}
+#High Density Apartments
+t.test(member$highdensity_apartments, nonmmbr$highdensity_apartments)
+
+#High Density Single Family Homes
+t.test(member$highdensity_singlefamily, nonmmbr$highdensity_singlefamily)
+
+#Rural Density > 10 Acres
+t.test(member$ruraldensity_lessthan10, nonmmbr$ruraldensity_lessthan10)
+
+#Rural Density < 10 Acres
+t.test(member$ruraldensity_10plus, nonmmbr$ruraldensity_10plus)
+ 
+#Workforce Housing
+t.test(member$workforce_housing, nonmmbr$workforce_housing)
+
+#Accessory Housing
+t.test(member$accessory_apartments, nonmmbr$accessory_apartments)
+```
+###Non - housing developement 
+Two sample t-tests were conducted to test for similarity in responses. 
+```{r, results='hide'}
+#Recreation
+t.test(member$recreation, nonmmbr$recreation)
+ 
+#Small Business
+t.test(member$small_business, nonmmbr$small_business)
+ 
+#Commercial Business
+t.test(member$commercial_business, nonmmbr$commercial_business)
+```
+####Significant Differences (Members vs. Non-Members)
+
+#####High Density Apartments
+28.6% of members indicated an interest in developing high density apartments `(p=0.000)`. Whereas non-members did not once indicate an interest in developing apartments.
+
+#####High Density Single Family Homes
+43% of members indicated an interest in developing high density single family homes `(p=0.005)`. Only 12.5% of non-members indicated interest in developing high density single family homes.
+
+####commercial business
+31% of members indicated interest in developing commercial business, whereas only 8% of non-members indicated this interest `(p=0.017)`.
+
+###Visualizing These Differences
+```{r, echo = FALSE, fig.width=5, fig.height=8, fig.align='center'}
+#Visualize Commercial Business
+commercialviz <-  na.omit(dev) %>% 
+  ggplot(aes(commercial_business)) + geom_bar(aes(y = (..count..)/sum(..count..)), fill = "#ffa24e") + 
+  labs(title = "Commercial Business") + facet_wrap(~NLRA_Member) +
+  scale_x_discrete(limits = c(0,1), labels = c("No", "Yes"))
+#Adding Labels
+commercialviz <- commercialviz + xlab("") + 
+  ylab("Prop. of Total Respondents")
+
+#Visualize High Density Single Family Homes
+singlefamvis <- na.omit(dev) %>% 
+  ggplot(aes(highdensity_singlefamily)) + geom_bar(aes(y = (..count..)/sum(..count..)), fill = "#ffa24e") + 
+  labs(title = "High Density Single Family Homes") + facet_wrap(~NLRA_Member) +
+  scale_x_discrete(limits = c(0,1), labels = c("No", "Yes")) + 
+  labs(x = "", y = "Prop. of Total Respondents")
+
+#Visualize differences in high density apartments
+apartmentvis <- na.omit(dev) %>% 
+  ggplot(aes(highdensity_apartments)) + geom_bar(aes(y = (..count..)/sum(..count..)), fill = "#ffa24e") + 
+  labs(title = "High Density Apartments") + facet_wrap(~NLRA_Member) +
+  scale_x_discrete(limits = c(0,1), labels = c("No", "Yes")) + 
+  labs(x= "", y = "Prop. of Total Respondents")
+
+plot_grid(apartmentvis, singlefamvis, commercialviz, nrow = 3)
+```
+

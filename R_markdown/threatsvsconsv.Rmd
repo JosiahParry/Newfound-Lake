@@ -1,0 +1,72 @@
+---
+title: "Threats VS Conservation"
+author: "Josiah Parry"
+date: "Spring 2016"
+output: html_document
+---
+
+One of the main questions we wanted to answer as a result of this study was: Do people want to conserve what they believe to be threatened? 
+
+This will be an exploration of this question. I will compare the threat level ratings to the conservation priorities. The belief before beginning this analysis is that for variables listed in both conservation and threats, there should be *no* significant difference. 
+
+```{r, include=F}
+library(dplyr)
+library(ggplot2)
+```
+First I must load the data:
+```{r}
+threats <- read.csv("/Users/Josiah/Google Drive/College/Spring 2016/PPGIS/Newfound_GIT/Data/clean_threats.csv")
+conservation <- read.csv("/Users/Josiah/Google Drive/College/Spring 2016/PPGIS/Newfound_GIT/Data/clean_conservation.csv")
+```
+
+The first variable is a conservation priority, and the second is a percieved threat to the landscape. The comparisons are as follows:
+ 
+ * Recreation & Recreation 
+    + `p-value = 3.73e-05`
+ * Viewshed & Scenic Quality 
+    + `p-value < 2.2e-16`
+ * Ecosystem & Soil Quality
+    + `p-value < 2.2e-16`
+ * Ecosystem & Water Quality
+    + `p-value = 3.182e-09`
+ * Ecosystem & Wildlife 
+    + `p-value = 1.332e-11`
+ * Economic & Business
+    + `p-value = 1.011e-08`
+ * Economic & Tourism
+    + `p-value = 0.1073`
+ * Culture & Rural Character
+    + `p-value = 0.003662`
+
+
+```{r, results='hide'}
+#Recreation & Recreation
+t.test(conservation$recreation, threats$recreation)
+
+#Viewshed & Scenic Quality
+t.test(conservation$viewshed, threats$scenic)
+
+#Ecosystem & Soil 
+t.test(conservation$ecosystem, threats$soil_quality)
+
+#Ecosystem & Water
+t.test(conservation$ecosystem, threats$waterquality)
+
+#Ecosystem & Wildlife
+t.test(conservation$ecosystem, threats$wildlife)
+
+#Economic & Business 
+t.test(conservation$economic, threats$business)
+
+#Economic & Tourism
+t.test(conservation$economic, threats$tourism)
+  #NO SIG DIF
+
+#Culture and Rural
+t.test(conservation$culture, threats$rural)
+```
+
+
+Conservation is rated with a higher level of priority than their level of threat.Perhaps a "threat" is a much more abstract concept and is harder to tie to a landscape. Whereas the concept of conservation is much more visceral. 
+
+This doesn't hold true for ratings of economic conservation and tourism. This can indicate New Hampshire's strong tie to tourism as a main driver of their economy. 

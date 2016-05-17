@@ -39,18 +39,22 @@ t.test(member$soil_quality, nonmmbr$soil_quality)
 
 #Water Quality
 t.test(member$waterquality, nonmmbr$waterquality)
+  #insignificant
   #insignificant differences, but both think moderate > highly threatened
 
 #Recreation
 t.test(member$recreation, nonmmbr$recreation)
+  #insignificant
   #think moderately threatend. Means: 1.9, 2.0
 
 #Scenic
 t.test(member$scenic, nonmmbr$scenic)
+  #insignificant
   #both think moderately threatened. Means: 1.9, 2.0
 
 #Tourism
 t.test(member$tourism, nonmmbr$tourism)
+  #insignificant
   #both think moderately threatened. Means: 1.95, 1.80
 
 #Business
@@ -59,7 +63,7 @@ t.test(member$business, nonmmbr$business)
   #all think slightly threatened. Means: 1.0, 1.1
 
 #Rural
-t.test(member$rural, nonmmbr$rural)
+t.test(member$rural, nonmmbr$rural) 
   #significantly different
   #members think that it is moderately threatened. Mean: 2.2
   #nonmembers think rural is moderate / highly threatened. Mean: 2.6
@@ -73,3 +77,4 @@ propsoil <- threats %>% filter(soil_quality %in% c(2,3)) %>% summarise(n = n()/n
 #OVERARCHING QUESTION:
 #what differences between non-members and members are most important to communicate?
 #how do you communicate differently to adress differences?
+#----------------------------------------------------------------------------------------------
