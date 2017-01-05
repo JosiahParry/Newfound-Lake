@@ -3,9 +3,12 @@ title: "Newfound Lake Landscape Value Analysis"
 subtitle: "Exploring the efficacy of PPGIS"
 author: "Josiah Parry"
 ---
+### Abstract:
+With recent developments in public participation geographic information systems (PPGIS), receiving public input on ecosystem service management decisions has become more accessible. We conducted a PPGIS study focused on an analysis of community perceptions of the Newfound Lake Watershed in New Hampshire, USA. We developed a survey with Maptionairre—an online PPGIS platform—focused on three major topics: threats to the landscape, conservation priorities, and future places to be developed. I examined the relationships between demographic factors and survey responses to help direct communications between the Newfound Lake Region Association (NLRA) and the community. The survey responses were analyzed using R (an open source statistical computing software) and ESRI ArcGIS. Findings will be used to improve planning in the Newfound Lake watershed. 
 
 This project was done using the public participatory GIS tool [Maptionnaire](maptionnaire.com) in partnership with the [Newfound Lake Region Association](http://newfoundlake.org/). Research done by myself ([Josiah Parry](linkedin.com/in/josiahparry)), and Sean Donohoe, with mentorship by Dr. Brian Eisenhauer, and Dr. Amy Villamagna of Plymouth Sate University. 
 
 I presented this research at [**NEW ENGLAND – ST. LAWRENCE VALLEY GEOGRAPHICAL SOCIETY (NESTVAL) – NORTHEAST REGIONAL DIVISION OF AAG**](http://nestval2016.ubishops.ca/).
 
 You can view the presentation [**here**](https://prezi.com/uchr4_g_qzns/newfound-lake-watershed/)
+
